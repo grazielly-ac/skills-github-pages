@@ -1,3 +1,8 @@
+---
+title: "Bem vindo a página prática do Github Pages"
+date: 2025-14-10
+---
+
 ## Explorando biblioteca de cursos do Github
 Revisão de conteúdo e aprendizagem de novos. 
 
